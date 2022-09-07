@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hello%World&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=Hello%20World&fontSize=80&desc=Welcom%20to%20my%20github&descAlignY=90)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangYoonSeong)](https://github.com/HwangYoonSeong/github-readme-stats)
 
