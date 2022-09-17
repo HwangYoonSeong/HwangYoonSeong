@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=Hello%20World!&fontSize=80&desc=Welcom%20to%20my%20github&descAlignY=90)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangYoonSeong)](https://github.com/HwangYoonSeong/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangYoonSeong&theme=algolia&show_icons=true)](https://github.com/HwangYoonSeong/github-readme-stats)
 
 - 👋 Hi, I’m @HwangYoonSeong
 - 👀 I’m interested in Web Programming
