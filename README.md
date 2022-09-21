@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=Hello%20World!&fontSize=80&desc=Welcom%20to%20my%20github&descAlignY=90)
 
 
-- 👋 Hi, I’m @HwangYoonSeong
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning React Native
-- 📚 my velog is https://velog.io/@lake19
-- 📫 How to reach me dbstjd427@naver.com
+<p align="center">
+👋 Hi, I’m @HwangYoonSeong<br/>
+👀 I’m interested in Web Programming<br/>
+🌱 I’m currently learning React Native<br/>
+📚 my velog is https://velog.io/@lake19<br/>
+📫 How to reach me dbstjd427@naver.com
+</p>
 
-
-<br/>
 <br/>
 
 <h3 align="center">🛠 Tech Stack 🛠 </h3>
