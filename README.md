@@ -1,6 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=Hello%20World!&fontSize=80&desc=Welcom%20to%20my%20github&descAlignY=90)
 
 
+- 👋 Hi, I’m @HwangYoonSeong
+- 👀 I’m interested in Web Programming
+- 🌱 I’m currently learning React Native
+- 📚 my velog is https://velog.io/@lake19
+- 📫 How to reach me dbstjd427@naver.com
+
+
+<br/>
+<br/>
+
 <h3 align="center">🛠 Tech Stack 🛠 </h3>
 <p align="center"> I've used at least once </p>
 
@@ -13,21 +23,15 @@
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;
 </p>
 
-<br/>
-<br/>
-
-
-- 👋 Hi, I’m @HwangYoonSeong
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning React Native
-- 📚 my velog is https://velog.io/@lake19
-- 📫 How to reach me dbstjd427@naver.com
-
 
 <br/>
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangYoonSeong&theme=algolia&show_icons=true)](https://github.com/HwangYoonSeong/github-readme-stats)
+<p align="center">
+<a href="https://github.com/HwangYoonSeong/github-readme-stats" >
+  <img  src="https://github-readme-stats.vercel.app/api?username=HwangYoonSeong&theme=algolia&show_icons=true" />
+</a>
+</p>
 
 
 <!---
