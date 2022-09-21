@@ -17,12 +17,15 @@
 <br/>
 
 
-<p align="center">👋 Hi, I’m @HwangYoonSeong </p>
-<p align="center">👀 I’m interested in Web Programming </p>
-<p align="center">🌱 I’m currently learning React Native </p>
-<p align="center">📚 my velog is https://velog.io/@lake19 </p>
-<p align="center">📫 How to reach me dbstjd427@naver.com </p>
+- 👋 Hi, I’m @HwangYoonSeong
+- 👀 I’m interested in Web Programming
+- 🌱 I’m currently learning React Native
+- 📚 my velog is https://velog.io/@lake19
+- 📫 How to reach me dbstjd427@naver.com
 
+
+<br/>
+<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangYoonSeong&theme=algolia&show_icons=true)](https://github.com/HwangYoonSeong/github-readme-stats)
 
