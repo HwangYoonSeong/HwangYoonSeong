@@ -32,12 +32,6 @@
 <br/>
 <br/>
 
-<p align="center">
-<a href="https://github.com/HwangYoonSeong/github-readme-stats" >
-  <img  src="https://github-readme-stats.vercel.app/api?username=HwangYoonSeong&theme=algolia&show_icons=true" />
-</a>
-</p>
-
 
 <!---
 HwangYoonSeong/HwangYoonSeong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
